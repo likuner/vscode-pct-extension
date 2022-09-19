@@ -1,8 +1,9 @@
 {
   "name": "vscode-pct-extension",
   "displayName": "vscode-pct-extension",
-  "description": "print-current-time",
+  "description": "print current time",
   "version": "0.0.1",
+  "publisher": "likuner",
   "engines": {
     "vscode": "^1.71.0"
   },
